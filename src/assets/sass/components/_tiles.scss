@@ -271,6 +271,19 @@
     $gutter: _size(gutter) * 0.5;
 
     margin: ($gutter * -1) 0 0 ($gutter * -1);
+    p{
+      color: yellow;
+      font-size: 0.8rem;
+      font-weight: 400;
+    }
+    h2{
+      color: white;
+      font-size: 1.2rem;
+    }
+    h3{
+      color:cyan;
+      font-size: 1rem;
+    }
 
     article {
       width: calc(#{(100% / 1)} - #{$gutter * 1});
@@ -288,6 +301,19 @@
     $gutter: _size(gutter) * 0.5;
 
     margin: 0;
+    p{
+      color: yellow;
+      font-size: 0.7rem;
+      font-weight: 400;
+    }
+    h2{
+      color: white;
+      font-size: 1rem;
+    }
+    h3{
+      color:cyan;
+      font-size: 0.9rem;
+    }
 
     article {
       width: 100%;
