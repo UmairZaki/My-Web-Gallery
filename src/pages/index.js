@@ -43,7 +43,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style5">
+          <article className="style2">
             <span className="image">
               <img src={pic13} alt="" />
             </span>
@@ -57,7 +57,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style2">
+          <article className="style3">
             <span className="image">
               <img src={pic10} alt="" />
             </span>
@@ -71,7 +71,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style3">
+          <article className="style4">
             <span className="image">
               <img src={pic9} alt="" />
             </span>
@@ -85,7 +85,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style4">
+          <article className="style5">
             <span className="image">
               <img src={pic11} alt="" />
             </span>
@@ -99,7 +99,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style5">
+          <article className="style6">
             <span className="image">
               <img src={pic1} alt="" />
             </span>
@@ -113,7 +113,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style6">
+          <article className="style2">
             <span className="image">
               <img src={pic2} alt="" />
             </span>
@@ -127,7 +127,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style3">
+          <article className="style4">
             <span className="image">
               <img src={pic14} alt="" />
             </span>
@@ -141,7 +141,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style2">
+          <article className="style6">
             <span className="image">
               <img src={pic3} alt="" />
             </span>
@@ -155,7 +155,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style4">
+          <article className="style5">
             <span className="image">
               <img src={pic4} alt="" />
             </span>
@@ -169,7 +169,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style6">
+          <article className="style3">
             <span className="image">
               <img src={pic5} alt="" />
             </span>
@@ -183,7 +183,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style5">
+          <article className="style1">
             <span className="image">
               <img src={pic6} alt="" />
             </span>
@@ -197,7 +197,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style3">
+          <article className="style6">
             <span className="image">
               <img src={pic7} alt="" />
             </span>
@@ -211,7 +211,7 @@ const IndexPage = () => (
               </div>
             </a>
           </article>
-          <article className="style1">
+          <article className="style5">
             <span className="image">
               <img src={pic8} alt="" />
             </span>
