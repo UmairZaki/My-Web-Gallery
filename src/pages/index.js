@@ -14,6 +14,8 @@ import pic9 from '../assets/images/9.jpg';
 import pic10 from '../assets/images/10.jpg';
 import pic11 from '../assets/images/11.jpg';
 import pic12 from '../assets/images/12.jpg';
+import pic13 from '../assets/images/14.jpg';
+import pic14 from '../assets/images/13.jpg';
 
 
 
@@ -36,6 +38,20 @@ const IndexPage = () => (
               <div className="content">
                 <p>
                   A new stylish and unique grayscale theme for your new project.
+                </p>
+                <h3>Visit Site</h3>
+              </div>
+            </a>
+          </article>
+          <article className="style5">
+            <span className="image">
+              <img src={pic13} alt="" />
+            </span>
+            <a href="https://umairzaki-portfolio.netlify.com/" target="_blank">
+              <h2>Creative</h2>
+              <div className="content">
+                <p>
+                  A new stylish and unique creative theme for your new project.
                 </p>
                 <h3>Visit Site</h3>
               </div>
@@ -88,10 +104,10 @@ const IndexPage = () => (
               <img src={pic1} alt="" />
             </span>
             <a href="https://umairnew.netlify.com/" target="_blank">
-              <h2>Highlights</h2>
+              <h2>Highlight</h2>
               <div className="content">
                 <p>
-                A new stylish and unique solid highlights theme for your new project.
+                A new stylish and unique highlight theme for your new project.
                 </p>
                 <h3>Visit Site</h3>
               </div>
@@ -106,6 +122,20 @@ const IndexPage = () => (
               <div className="content">
                 <p>
                 A new stylish and unique modern resume theme for your new project.
+                </p>
+                <h3>Visit Site</h3>
+              </div>
+            </a>
+          </article>
+          <article className="style3">
+            <span className="image">
+              <img src={pic14} alt="" />
+            </span>
+            <a href="https://umairzaki-web-book.netlify.com/" target="_blank">
+              <h2>Photo Gallery</h2>
+              <div className="content">
+                <p>
+                  A new stylish and unique photo gallery theme for your new project.
                 </p>
                 <h3>Visit Site</h3>
               </div>
